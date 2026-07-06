@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Composer
+/vendor/
+
+# Logs
+*.log
+
+# Uploads (إذا كانت الملفات المرفوعة لا تريد حفظها في GitHub)
+/uploads/
+
+# IDE files
+.vscode/
+.idea/
+
+# Cache
+/cache/
