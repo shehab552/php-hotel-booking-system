@@ -1,6 +1,13 @@
 # Hotel Booking System
+![PHP](https://img.shields.io/badge/PHP-8.x-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A complete hotel booking and reservation management system built with PHP and MySQL. The system allows users to browse hotels, make reservations, manage bookings, and provides an administrative dashboard for managing the platform.
+
+## Status
+
+✅ Completed Academic Project
 
 ## Features
 
@@ -24,6 +31,13 @@ To run it locally:
 - Configure `config.php`.
 - Start Apache and MySQL.
 - Open `http://localhost/hotel-booking-system`.
+
+## Database
+
+The database schema is included in:
+
+```text
+database/hotel_booking.sql
 
 ## Technologies Used
 
