@@ -13,6 +13,18 @@ A complete hotel booking and reservation management system built with PHP and My
 - Database-driven application
 - Responsive web interface
 
+## Demo
+
+This project is intended for local development.
+
+To run it locally:
+
+- Install XAMPP or WAMP.
+- Import `database/hotel_booking.sql`.
+- Configure `config.php`.
+- Start Apache and MySQL.
+- Open `http://localhost/hotel-booking-system`.
+
 ## Technologies Used
 
 - PHP
